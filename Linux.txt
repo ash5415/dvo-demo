@@ -1,0 +1,5 @@
+---> come out of the folder : cd ..
+--> check the list of folders : ls -lrth
+--> create a folder : mkdir <folder name>
+--> crate file commamnd : touch <file name>
+--> edit file command: vi <file name>

@@ -1,0 +1,17 @@
+ CI/CD :
+
+    Jenkins:
+          --> Jenkins is a open source software.
+          --> A continuous integration server which manages and control process such as plan, code, build, test
+                deploy and operate in monitor in Devops environment.
+    Benefits of Jenkins:
+                   --> open source.
+                   --> good support.
+                   --> good community support.
+                   --> fast and reliable.
+                   --> good os support.
+                   --> script builds.
+                   --> provide advanced security. 
+                   --> upgrades are easily available.
+                   --> lightweight container support.
+                   --> distributed team management. 

@@ -1,0 +1,8 @@
+Maven:
+    --> Maven is a tool that is used to compile, validate codes and analyse the test-cases in the code. 
+    --> manages the building, reporting and documentation form source control management.
+    --> maven projects are configured through project object model.
+    --> mainly used for java projects.
+    --> Maven is chiefly used for Java-based projects, helping to download dependencies, which refers to 
+        the libraries or JAR files. The tool helps get the right JAR files for each project as there may be 
+        different versions of separate package.
