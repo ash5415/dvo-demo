@@ -1,0 +1,31 @@
+                                   GIT
+                                   ===
+Version control system (VCS):
+===========================
+                  --> version control system most of the time using developers.
+                  --> git is a tool .
+                  --> git hub is remote repo.
+                  --> creating file : vi <file name>  
+pushing code local to repo:
+                  --> initialize the folder                 : git init
+                  --> add all the files                     : git add .   
+                  --> to add any particular file            : git add <file name>
+                  --> check the status                      : git status
+                  --> commit message                        : git commit -m "write any commit"
+                  --> copy git URL                          : git remote add origin <URL>
+                  --> push the code                         : git push master / master
+                  --> checking details current branch       : git log  / git log --oneline
+                  --> check the changes                     : git diff 
+                  --> staging and committing multiple files : git commit -a -m 'any message'
+                  --> removing file                         : git rm <file name>
+                  --> revert back the file                  : git revert <pass the file id>
+                  --> you can change the last commit message: git commit --amend
+                  --> delete branch                         : git push origin --delete <branch name>
+                  --> check the latest changes              : git show <pass the id> 
+Branching :
+        
+         --> creating branch                 : git branch < branch name>
+         --> check-out branch                : git check out <Branch name>
+         --> git merge                       : git merge <branch name>      (source to destination)
+         --> deleting branch                 : git branch -d <branch name>
+         
